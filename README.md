@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<div align="center" >
+  <p width="100%">
+    <img width="60%" alt="card with infos about github activity" src="https://github.com/Serkyo/github-stats-remotion/blob/main/out/readme.gif?raw=true" />
+    <img width="60%" alt="card with infos about github activity" src="https://github.com/Serkyo/github-stats-remotion/blob/main/out/top-languages.gif?raw=true" />
+    <img width="60%" alt="card with infos about github activity" src="https://github.com/Serkyo/github-stats-remotion/blob/main/out/issue-tracking.gif?raw=true" />
+  </p>
+</div>
 <!--
 **Serkyo/Serkyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
